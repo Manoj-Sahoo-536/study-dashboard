@@ -18,10 +18,10 @@
 
 | Type | File | Size |
 |------|------|------|
-| 🔧 **Installer** (Recommended) | `Study Dashboard-1.0.0-Setup.exe` | ~95 MB |
-| 💼 **Portable** (No install needed) | `Study Dashboard-1.0.0-Portable.exe` | ~95 MB |
+| 🔧 **Installer** (Recommended) | [`Study Dashboard-1.0.0-Setup.exe`](https://github.com/Manoj-Sahoo-536/study-dashboard/releases/download/v1.0.0/Study.Dashboard-1.0.0-Setup.exe) | ~95 MB |
+| 💼 **Portable** (No install needed) | [`Study Dashboard-1.0.0-Portable.exe`](https://github.com/Manoj-Sahoo-536/study-dashboard/releases/download/v1.0.0/Study.Dashboard-1.0.0-Portable.exe) | ~95 MB |
 
-> **[👉 Download Latest Release →](../../releases/latest)**
+> **[👉 Download Latest Release →](https://github.com/Manoj-Sahoo-536/study-dashboard/releases/latest)**
 
 > **Note:** Windows Defender or SmartScreen may warn about an "unknown publisher" since the app is not code-signed. Click **"More info → Run anyway"** to proceed — this is safe for locally built apps.
 
@@ -65,7 +65,7 @@ If you prefer to run the project yourself rather than using the installer:
 
 ```bash
 # 1. Clone or download the source code
-git clone <your-repo-url>
+git clone https://github.com/Manoj-Sahoo-536/study-dashboard.git
 cd study-dashboard
 
 # 2. Install all dependencies
