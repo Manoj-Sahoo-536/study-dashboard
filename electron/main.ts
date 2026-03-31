@@ -96,7 +96,7 @@ app.on('activate', () => {
 app.whenReady().then(() => {
   // Set proper Windows taskbar identity for packaged builds
   if (process.platform === 'win32') {
-    app.setAppUserModelId('com.studydashboard.app')
+    app.setAppUserModelId('com.worknest.app')
   }
 
   createWindow()

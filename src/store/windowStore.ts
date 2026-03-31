@@ -92,7 +92,7 @@ export const useWindowStore = create<WindowState>()(
                 })),
         }),
         {
-            name: 'study-dashboard-storage',
+            name: 'work-nest-storage',
             // Only persist focus mode preference — NOT open windows.
             // Persisting windows causes stale file paths and broken webviews on restart.
             partialize: (state) => ({

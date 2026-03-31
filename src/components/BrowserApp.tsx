@@ -138,7 +138,7 @@ export const BrowserApp = ({ window }: BrowserAppProps) => {
                     src={window.url || 'https://google.com'}
                     className={`absolute inset-0 w-full h-full ${windowInteractingCount > 0 ? 'pointer-events-none' : ''}`}
                     useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                    partition="persist:study-dashboard"
+                    partition="persist:work-nest"
                     // @ts-expect-error — allowpopups is a valid Electron webview attribute
                     allowpopups="true"
                 />
